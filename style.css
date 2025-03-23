@@ -85,7 +85,7 @@ header {
 .Hub {
   display: flex;
   width: auto;
-  height: 320;
+  height: auto;
   justify-content: center;
   align-items: center;
   border: 5px solid rgba(255, 255, 255, 5);
